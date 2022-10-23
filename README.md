@@ -1,5 +1,5 @@
 # Dijkstra Visualizer
-A simple visualization of th Dijkstra algorithm as tkinter app. 
+A simple visualization of the Dijkstra algorithm as tkinter app. 
 
 Allows the creation of custom (undirected) graph and shows the algorithm step-by-step. 
 
@@ -10,7 +10,7 @@ Tkinter is a built-in Python modul, but on some Linux distributions it is not in
 In this case you can install `python3-tk` from the repositories, e.g. on Ubuntu/Debian `sudo apt install python3-tk`.
 
 ## Usage
-Run `python3 dijkstra_visualizer/main.py` (Windows `pydijkstra_visualizer/main.py`) to start the app. 
+Run `python3 dijkstra_visualizer/main.py` (Windows `py dijkstra_visualizer/main.py`) to start the app. 
 
 The Gui differentiates between two states.
 1. The edit mode where you can create and edit your own graph.
